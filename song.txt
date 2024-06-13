@@ -1,2 +1,4 @@
 hey this is prana
 leaning github
+i just learnt how to push the files
+from local working directory
